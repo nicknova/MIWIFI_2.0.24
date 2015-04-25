@@ -2,6 +2,7 @@
 <resources>
     <item type="layout" name="about_setting_list_normal_view">false</item>
     <item type="layout" name="client_block_feature_guide">false</item>
+    <item type="layout" name="client_block_wifi_access_activity1">false</item>
     <item type="layout" name="client_device_detail_bottom_bar">false</item>
     <item type="layout" name="cube_ptr_classic_default_header">false</item>
     <item type="layout" name="cube_ptr_simple_loading">false</item>

@@ -258,6 +258,9 @@
     <attr name="tdc_checked" format="boolean" />
     <attr name="caption" format="string" />
     <attr name="description" format="string" />
+    <attr name="tdsm_title" format="string" />
+    <attr name="tdsm_description" format="string" />
+    <attr name="tdsm_status" format="string" />
     <attr name="tsm_title" format="string" />
     <attr name="tsm_status" format="string" />
     <attr name="titleTextAppearance" format="reference" />
