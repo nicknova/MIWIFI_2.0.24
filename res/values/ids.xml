@@ -254,7 +254,6 @@
     <item type="id" name="invade_name">false</item>
     <item type="id" name="invade_value">false</item>
     <item type="id" name="block_this_device">false</item>
-    <item type="id" name="block_wifi_switcher">false</item>
     <item type="id" name="client_icon">false</item>
     <item type="id" name="anchor">false</item>
     <item type="id" name="client_name">false</item>
@@ -475,8 +474,6 @@
     <item type="id" name="common_empty_view">false</item>
     <item type="id" name="common_empty_text">false</item>
     <item type="id" name="remote_complete_download_list_view">false</item>
-    <item type="id" name="top_status_bar">false</item>
-    <item type="id" name="total_download_progress">false</item>
     <item type="id" name="remote_download_ongoing_view">false</item>
     <item type="id" name="remote_ongoing_download_item_content">false</item>
     <item type="id" name="remote_ongoing_download_item_content_name">false</item>
@@ -512,14 +509,6 @@
     <item type="id" name="download_downloaded">false</item>
     <item type="id" name="download_fragment_container">false</item>
     <item type="id" name="view_pager">false</item>
-    <item type="id" name="ongoing_count">false</item>
-    <item type="id" name="time_setting">false</item>
-    <item type="id" name="update_hour">false</item>
-    <item type="id" name="download_setting_schedule">false</item>
-    <item type="id" name="switch_btn">false</item>
-    <item type="id" name="time_setting_item">false</item>
-    <item type="id" name="time_setted">false</item>
-    <item type="id" name="time_goto">false</item>
     <item type="id" name="dropdown_dialog_close">false</item>
     <item type="id" name="feedback_1">false</item>
     <item type="id" name="feedback_2">false</item>
@@ -761,6 +750,7 @@
     <item type="id" name="optional_reset">false</item>
     <item type="id" name="recovery_disk_format">false</item>
     <item type="id" name="recovery_format_disk">false</item>
+    <item type="id" name="switch_btn">false</item>
     <item type="id" name="setting_recovery_confirm">false</item>
     <item type="id" name="reminder_offline_diagnosis">false</item>
     <item type="id" name="reminder_offline_qos">false</item>
@@ -852,6 +842,9 @@
     <item type="id" name="timer_icon">false</item>
     <item type="id" name="timer_hint">false</item>
     <item type="id" name="switch_hint">false</item>
+    <item type="id" name="time_setting_item">false</item>
+    <item type="id" name="time_setted">false</item>
+    <item type="id" name="time_goto">false</item>
     <item type="id" name="upgrade_hint">false</item>
     <item type="id" name="upgrade_listview">false</item>
     <item type="id" name="update_btn">false</item>
@@ -861,6 +854,8 @@
     <item type="id" name="upgrade_status">false</item>
     <item type="id" name="upgrade_btn">false</item>
     <item type="id" name="change_time">false</item>
+    <item type="id" name="time_setting">false</item>
+    <item type="id" name="update_hour">false</item>
     <item type="id" name="initing_container">false</item>
     <item type="id" name="current_progress">false</item>
     <item type="id" name="error_container">false</item>
